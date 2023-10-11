@@ -1,3 +1,6 @@
 {
-    "TELEGRAM_TOKEN": "123"
+    "TELEGRAM_TOKEN": "6493005309:AAFhsfqwf5Lxd1gLLbBR7rVka3oNQbRgKgg",
+    "OPENAI_KEY": "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",
+    "NOTION_KEY": "secret_AmQDxh6gAKRv5xRXiNXJOaNZfPKbMbP8CFPcXcmAxSB",
+    "NOTION_DB_ID": "7ed2a4fb3dfb4f4b9b408e00b546d364"
 }
